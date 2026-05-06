@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1612?style=for-the-badge&logo=safari&logoColor=f4ede0)](https://davidalmeidac.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1612?style=for-the-badge&logo=linkedin&logoColor=f4ede0)](https://www.linkedin.com/in/davidalmeidac/)
-[![Email](https://img.shields.io/badge/Email-1a1612?style=for-the-badge&logo=protonmail&logoColor=f4ede0)](mailto:david.almeida@cun.edu.co)
+[![Email](https://img.shields.io/badge/Email-1a1612?style=for-the-badge&logo=protonmail&logoColor=f4ede0)](mailto:davidalmeidac@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1612?style=for-the-badge&logo=github&logoColor=f4ede0)](https://github.com/davidalmeidac)
 
 </div>
@@ -215,7 +215,7 @@ mongoose-pagination-cursor         Cursor-based pagination for MongoDB collectio
 
 | | |
 |--|--|
-| **Email** | [david.almeida@cun.edu.co](mailto:david.almeida@cun.edu.co)  —  best for opportunities |
+| **Email** | [davidalmeidac@proton.me](mailto:davidalmeidac@proton.me)  —  best for opportunities |
 | **LinkedIn** | [linkedin.com/in/davidalmeidac](https://www.linkedin.com/in/davidalmeidac/)  —  best for everything else |
 | **Portfolio** | [davidalmeidac.github.io](https://davidalmeidac.github.io) |
 | **Location** | Bucaramanga, Colombia  ·  `UTC-5`  ·  Open to remote |
