@@ -12,7 +12,7 @@
 
 ### Full Stack Developer · Backend at heart
 
-**Bucaramanga, Colombia**  ·  Building reliable systems end-to-end with Java, Spring Boot, Angular, and AWS.
+**Villavicencio, Colombia**  ·  Building reliable systems end-to-end with Java, Spring Boot, Angular, and AWS.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1612?style=for-the-badge&logo=safari&logoColor=f4ede0)](https://davidalmeidac.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1612?style=for-the-badge&logo=linkedin&logoColor=f4ede0)](https://www.linkedin.com/in/davidalmeidac/)
@@ -25,9 +25,9 @@
 
 ### About me
 
-Full stack developer from Brazil, based in Bucaramanga (Colombia). Self-taught from a young age —
+Full stack developer from Brazil, based in Villavicencio (Colombia). Self-taught from a young age —
 got into code early to help my family — and grew into shipping real production systems through
-trial, error, and a lot of broken builds. Four years now writing code that actually has to stay up.
+trial, error, and a lot of broken builds. Two years now writing professional code that actually has to stay up.
 
 Backend is where I'm strongest: **Java, Spring Boot, microservices**. But I work the full stack —
 **Angular and TypeScript** on the frontend, **Node.js and Express** when the project asks for it,
@@ -114,7 +114,7 @@ Java · Spring Boot     Angular · TypeScript   AWS · Docker · K8s
 #### [proyecto1-microservices-cqrs](https://github.com/davidalmeidac/proyecto1-microservices-cqrs)
 
 Distributed order processing system implementing CQRS, Event Sourcing, and Circuit Breaker patterns
-for resilience under failure. Achieved 99.9% uptime in production-like benchmarks.
+for resilience under failure.
 
 `Spring Boot 3` · `Java 17` · `RabbitMQ` · `PostgreSQL` · `Docker` · `Resilience4j`
 
@@ -156,19 +156,11 @@ through a custom CI pipeline.
 
 ---
 
-### Open source — coming soon
+### Open source
 
-I'm currently extracting reusable pieces from production projects into focused libraries.
-First releases land **Q2 2026**.
+**[sealed-env](https://github.com/davidalmeidac/sealed-env)** — Encrypted .env files with TOTP unsealing, cross-stack (Node + Java/Spring Boot 3). Published on Maven Central and npm. Self-disclosed and fixed CVE-2026-45091; releases ship with SLSA Build L3 provenance.
 
-```
-spring-boot-starter-rate-limit     Pluggable rate limiting via @RateLimit annotation
-aws-lambda-spring-template         Production-ready template, GraalVM native ready
-mongoose-pagination-cursor         Cursor-based pagination for MongoDB collections
-```
-
-> Want to be notified when these drop? Follow me on [GitHub](https://github.com/davidalmeidac) or
-> [LinkedIn](https://www.linkedin.com/in/davidalmeidac/).
+**[spring-boot-starter-rate-limit](https://github.com/davidalmeidac/spring-boot-starter-rate-limit)** — Declarative rate limiting for Spring Boot 3 via a single @RateLimit annotation (Bucket4j, Caffeine/Redis backends). Published on Maven Central.
 
 ---
 
@@ -218,7 +210,7 @@ mongoose-pagination-cursor         Cursor-based pagination for MongoDB collectio
 | **Email** | [davidalmeidac@proton.me](mailto:davidalmeidac@proton.me)  —  best for opportunities |
 | **LinkedIn** | [linkedin.com/in/davidalmeidac](https://www.linkedin.com/in/davidalmeidac/)  —  best for everything else |
 | **Portfolio** | [davidalmeidac.github.io](https://davidalmeidac.github.io) |
-| **Location** | Bucaramanga, Colombia  ·  `UTC-5`  ·  Open to remote |
+| **Location** | Villavicencio, Colombia  ·  `UTC-5`  ·  Open to remote |
 | **Languages** | Spanish · English (B2) · Portuguese |
 
 ---
@@ -233,7 +225,7 @@ mongoose-pagination-cursor         Cursor-based pagination for MongoDB collectio
 <br/>
 
 <sub>
-Built with care.  Last updated:  May 2026.
+Built with care.  Last updated:  October 2026.
 </sub>
 
 </div>
